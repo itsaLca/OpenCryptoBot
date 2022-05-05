@@ -295,31 +295,3 @@ I am actively developing this bot and will do so also in the near future. If you
 ## Disclaimer
 I use this bot personally to check the current state of some coins but since all the data is relying on external APIs, i can't guarantee that all informations are correct. Please use with caution. **I can't be held responsible for anything!**
 
-## Donating
-If you find **OpenCryptoBot** suitable for your needs, please consider donating whatever amount you like to:
-
-#### Bitcoin
-```
-1EoBYmfdJznJ21v8Uiiv44iJ2sDb6Bsqc1
-```
-
-#### Bitcoin Cash
-```
-qzken7mgslv0w9t4ycj4uganv66ljccsq5ngcepp6h
-```
-
-#### Ethereum (ETH)
-```
-0x15c3dB6f0f3cC3A187Cfa4b20605293a08b9Be46
-```
-
-#### Monero (XMR)
-```
-42eSjjHF63P3LtxcdeC71TT3ZCcGbTtk1aESTvfrz4VqYeKMFP9tbWhjmcUJZE3yVrgDjH8uZhnob9czCtm764cFDWYPe7c
-```
-
-#### How else can you support me?
-If you can't or don't want to donate, please consider signing up on listed exchanges below. They are really good and by using these links to register an account i get a share of the trading-fee that you pay to the exchange if you execute a trade.
-
-- [Binance](https://www.binance.com/?ref=16770868)
-- [KuCoin](https://www.kucoin.com/#/?r=H3QdJJ)
